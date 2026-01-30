@@ -1,0 +1,5 @@
+{
+  "name": "PubMed-Literature Screener AI",
+  "description": "An intelligent tool to parse PubMed search results and screen them against custom inclusion/exclusion criteria using Gemini AI.",
+  "requestFramePermissions": []
+}
